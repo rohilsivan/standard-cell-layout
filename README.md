@@ -1,6 +1,6 @@
 # Standard Cell Layout Design of Logic Gates
 
-This project presents the **standard cell layout design** of fundamental logic gates using **MOSFETs in Cadence Virtuoso**.  
+This project presents the **standard cell layout design** of fundamental logic gates using **MOSFETs in Cadence Virtuoso** GPDK_180 nm technology
 The designs were validated using **Assura checks and DRC** to ensure correctness and compliance with layout rules.  
 
 ---
